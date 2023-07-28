@@ -1,3 +1,4 @@
 = Libre collection
 
 * https://libreboot.org/[libreboot]
+* https://www.parabola.nu/[parabolaOS]
